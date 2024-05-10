@@ -108,6 +108,10 @@ As the database is MySQL in this project, we need to import the datasets from My
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 - In this project, we have followed Snowflake data modeling method.
 
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Data_model.png)
+
+
+
 
 
 
