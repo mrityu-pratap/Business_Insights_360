@@ -110,6 +110,43 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 ![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Data_model.png)
 
+## Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measures as and when required
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+- HomePage
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+
+## HomePage
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/HomePage.jpg)
+
+## Finance View
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/Finance%20View.jpg)
+
+## Sales View
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/Sales%20View.jpg)
+
+## Marketing View
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/Marketing%20View.jpg)
+
+## Supply Chain View
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/Supply%20Chain%20View.jpg)
+
+## Executive View
+![plot](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Resources/Executive%20View.jpg)
+
+you can find the full report file here : [report](https://github.com/mrityu-pratap/Business_Insights_360/blob/main/Business%20Insights%20360.pbix)
+
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
 
 
 
